@@ -1,0 +1,9 @@
+c:\users\pshinde\documents\visual studio 2015\Projects\FolderAndFileCount\FolderAndFileCount\bin\Debug\FolderAndFileCount.exe.config
+c:\users\pshinde\documents\visual studio 2015\Projects\FolderAndFileCount\FolderAndFileCount\bin\Debug\FolderAndFileCount.exe
+c:\users\pshinde\documents\visual studio 2015\Projects\FolderAndFileCount\FolderAndFileCount\bin\Debug\FolderAndFileCount.pdb
+c:\users\pshinde\documents\visual studio 2015\Projects\FolderAndFileCount\FolderAndFileCount\obj\Debug\FolderAndFileCount.csprojResolveAssemblyReference.cache
+c:\users\pshinde\documents\visual studio 2015\Projects\FolderAndFileCount\FolderAndFileCount\obj\Debug\FolderAndFileCount.exe
+c:\users\pshinde\documents\visual studio 2015\Projects\FolderAndFileCount\FolderAndFileCount\obj\Debug\FolderAndFileCount.pdb
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\FolderAndFileCount\FolderAndFileCount\bin\Debug\FolderAndFileCount.exe.config
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\FolderAndFileCount\FolderAndFileCount\obj\Debug\FolderAndFileCount.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\FolderAndFileCount\FolderAndFileCount\obj\Debug\FolderAndFileCount.pdb

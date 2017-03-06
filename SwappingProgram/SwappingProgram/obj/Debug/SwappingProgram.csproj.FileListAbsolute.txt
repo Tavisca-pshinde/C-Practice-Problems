@@ -1,0 +1,9 @@
+c:\users\pshinde\documents\visual studio 2015\Projects\SwappingProgram\SwappingProgram\bin\Debug\SwappingProgram.exe.config
+c:\users\pshinde\documents\visual studio 2015\Projects\SwappingProgram\SwappingProgram\bin\Debug\SwappingProgram.exe
+c:\users\pshinde\documents\visual studio 2015\Projects\SwappingProgram\SwappingProgram\bin\Debug\SwappingProgram.pdb
+c:\users\pshinde\documents\visual studio 2015\Projects\SwappingProgram\SwappingProgram\obj\Debug\SwappingProgram.csprojResolveAssemblyReference.cache
+c:\users\pshinde\documents\visual studio 2015\Projects\SwappingProgram\SwappingProgram\obj\Debug\SwappingProgram.exe
+c:\users\pshinde\documents\visual studio 2015\Projects\SwappingProgram\SwappingProgram\obj\Debug\SwappingProgram.pdb
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\SwappingProgram\SwappingProgram\bin\Debug\SwappingProgram.exe.config
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\SwappingProgram\SwappingProgram\obj\Debug\SwappingProgram.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\SwappingProgram\SwappingProgram\obj\Debug\SwappingProgram.pdb

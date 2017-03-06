@@ -1,0 +1,12 @@
+c:\users\pshinde\documents\visual studio 2015\Projects\StringOperations\StringOperations\bin\Debug\StringOperations.exe.config
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\StringOperations\StringOperations\bin\Debug\StringOperations.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\StringOperations\StringOperations\bin\Debug\StringOperations.pdb
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\StringOperations\StringOperations\obj\Debug\StringOperations.csprojResolveAssemblyReference.cache
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\StringOperations\StringOperations\obj\Debug\StringOperations.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\StringOperations\StringOperations\obj\Debug\StringOperations.pdb
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StringOperations\StringOperations\bin\Debug\StringOperations.exe.config
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StringOperations\StringOperations\obj\Debug\StringOperations.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StringOperations\StringOperations\obj\Debug\StringOperations.pdb
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StringOperations\StringOperations\bin\Debug\StringOperations.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StringOperations\StringOperations\bin\Debug\StringOperations.pdb
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StringOperations\StringOperations\obj\Debug\StringOperations.csprojResolveAssemblyReference.cache

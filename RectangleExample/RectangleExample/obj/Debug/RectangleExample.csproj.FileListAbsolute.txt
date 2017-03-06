@@ -1,0 +1,9 @@
+c:\users\pshinde\documents\visual studio 2015\Projects\RectangleExample\RectangleExample\bin\Debug\RectangleExample.exe.config
+c:\users\pshinde\documents\visual studio 2015\Projects\RectangleExample\RectangleExample\bin\Debug\RectangleExample.exe
+c:\users\pshinde\documents\visual studio 2015\Projects\RectangleExample\RectangleExample\bin\Debug\RectangleExample.pdb
+c:\users\pshinde\documents\visual studio 2015\Projects\RectangleExample\RectangleExample\obj\Debug\RectangleExample.csprojResolveAssemblyReference.cache
+c:\users\pshinde\documents\visual studio 2015\Projects\RectangleExample\RectangleExample\obj\Debug\RectangleExample.exe
+c:\users\pshinde\documents\visual studio 2015\Projects\RectangleExample\RectangleExample\obj\Debug\RectangleExample.pdb
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\RectangleExample\RectangleExample\bin\Debug\RectangleExample.exe.config
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\RectangleExample\RectangleExample\obj\Debug\RectangleExample.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\RectangleExample\RectangleExample\obj\Debug\RectangleExample.pdb

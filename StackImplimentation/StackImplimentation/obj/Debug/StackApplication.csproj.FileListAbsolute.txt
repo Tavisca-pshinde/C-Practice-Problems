@@ -1,0 +1,6 @@
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StackImplimentation\StackImplimentation\bin\Debug\StackImplimentation.exe.config
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StackImplimentation\StackImplimentation\bin\Debug\StackImplimentation.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StackImplimentation\StackImplimentation\bin\Debug\StackImplimentation.pdb
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StackImplimentation\StackImplimentation\obj\Debug\StackApplication.csprojResolveAssemblyReference.cache
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StackImplimentation\StackImplimentation\obj\Debug\StackImplimentation.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\StackImplimentation\StackImplimentation\obj\Debug\StackImplimentation.pdb

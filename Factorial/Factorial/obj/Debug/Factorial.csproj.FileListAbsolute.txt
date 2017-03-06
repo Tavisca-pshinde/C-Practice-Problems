@@ -1,0 +1,9 @@
+c:\users\pshinde\documents\visual studio 2015\Projects\Factorial\Factorial\bin\Debug\Factorial.exe.config
+c:\users\pshinde\documents\visual studio 2015\Projects\Factorial\Factorial\bin\Debug\Factorial.exe
+c:\users\pshinde\documents\visual studio 2015\Projects\Factorial\Factorial\bin\Debug\Factorial.pdb
+c:\users\pshinde\documents\visual studio 2015\Projects\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+c:\users\pshinde\documents\visual studio 2015\Projects\Factorial\Factorial\obj\Debug\Factorial.exe
+c:\users\pshinde\documents\visual studio 2015\Projects\Factorial\Factorial\obj\Debug\Factorial.pdb
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\pshinde\Documents\Visual Studio 2015\Projects\C# Practice codes\Factorial\Factorial\obj\Debug\Factorial.pdb
